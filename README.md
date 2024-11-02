@@ -1,14 +1,11 @@
-### Olá! 👋
-
-Meu nome é Pedro Henrique. Moro em Belo Horizonte - MG. Trabalho alguns anos como consultor IBM MAXIMO na iT.eam. Adoro desevendar mistérios e desenvolver soluções.
-
-<div>
-  <img align="right" width="180px" src="https://tenor.com/pt-BR/view/infinate-forever-desktop-computer-gif-14266304"/>
-</div>
-
-- 🌱 Estou aprimorando meu conhecimento em desenvolvimento em Python.
-- 🎓 Sou graduando em Sistemas de Informação pela UFOP.
+### Hello, I'm Pedro! 👋
+- 🌱 I’m currently learning react, javascript and typescript
 ##
+<div align="center" style="display: inline_block"><br>
+  <a href="https://github.com/Phna-b">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phna-b&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phna-b&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
 </div>
   <div align="center" style="display: inline_block"><br>
