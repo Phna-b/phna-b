@@ -2,9 +2,6 @@
 
 Meu nome é Pedro Henrique. Moro em Belo Horizonte - MG. Trabalho alguns anos como consultor IBM MAXIMO na iT.eam. Adoro desevendar mistérios e desenvolver soluções.
 
-<div>
-  <img align="right" width="180px" src="https://media1.tenor.com/m/4KP456_GUqQAAAAd/infinate-forever.gif"/>
-</div>
 
 - 🌱 Estou aprimorando meu conhecimento em desenvolvimento em Python.
 - 🎓 Sou graduando em Sistemas de Informação pela UFOP.
