@@ -11,19 +11,29 @@ Meu nome é Pedro Henrique. Moro em Belo Horizonte - MG. Trabalho alguns anos co
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/Phna-b">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phna-b&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phna-b&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=phna-b&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phna-b&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+## Tecnologias 💻⚡
   
 </div>
   <div align="center" style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+### 
+<div align="center">
+  
+<img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img height="30" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000"/>
+
+  
+</div>  
+
 
 ##
  <div  align="center">
