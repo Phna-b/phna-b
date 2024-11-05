@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 <div >
-  <img align="right" width="180px" src="https://media1.tenor.com/m/4KP456_GUqQAAAAd/infinate-forever.gif" alt="forever"/>
+  <img align="right" width="180px" src="https://c.tenor.com/4KP456_GUqQAAAAd/tenor.gif" alt="forever"/>
 </div>
 
 Meu nome é Pedro Henrique. Moro em Belo Horizonte - MG. 
@@ -46,5 +46,5 @@ Trabalho há alguns anos como consultor IBM MAXIMO na iT.eam. Adoro desevendar m
    <p><p>
    
 <div >
-  <img align="center"  src="https://media1.tenor.com/m/kAGDu_nGwNYAAAAd/hold-me-buffering.gif" alt="forever"/>
+  <img align="center"  src="https://c.tenor.com/kAGDu_nGwNYAAAAd/tenor.gif" alt="loading"/>
 </div>
