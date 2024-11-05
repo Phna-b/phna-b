@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 
 
 <div >
   <img align="right" width="180px" src="https://c.tenor.com/4KP456_GUqQAAAAd/tenor.gif" alt="forever"/>
