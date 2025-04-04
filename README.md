@@ -48,3 +48,9 @@ Trabalho há alguns anos como consultor IBM MAXIMO na iT.eam. Adoro desevendar m
 <div >
   <img align="center"  src="https://c.tenor.com/kAGDu_nGwNYAAAAd/tenor.gif" alt="loading"/>
 </div>
+
+
+  <div align="center">
+    <p align="center"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Phna-b}/count.svg" /></p> 
+  </div>
