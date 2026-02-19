@@ -13,12 +13,6 @@ Trabalho há alguns anos como consultor IBM MAXIMO na iT.eam. Adoro desevendar m
 
 ## Stats 📈
 
-<div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/Phna-b">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=phna-b&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phna-b&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## Tecnologias 💻⚡
 <p align="left">
   • Programming:&nbsp;
